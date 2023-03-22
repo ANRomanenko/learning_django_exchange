@@ -1,3 +1,20 @@
+
 .row {
     background: #333
+    margin: 0 auto;
+    margin: auto;
+    justify-content:center;
+    text-align: center;
+    height: 100px;
+}
+
+.submit-btn {
+    text-align: center;
+}
+
+.card-body {
+    margin: auto;
+    justify-content:center;
+    text-align: center;
+    height: 100px;
 }
